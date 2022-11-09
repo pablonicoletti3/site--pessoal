@@ -1,0 +1,48 @@
+.imagem{
+    background: rgba(0, 0, 0, 0.8);
+}
+h2{
+    position: absolute;
+height: 50%;
+left: 47%;
+top: 30%;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #FFFFFF;
+}
+h1{
+    position: absolute;
+height: 15px;
+left: 500px;
+top: 230px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 200;
+font-size: 80px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+p{
+    position: absolute;
+width: 289px;
+height: 29px;
+left: 610px;
+top: 330px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
